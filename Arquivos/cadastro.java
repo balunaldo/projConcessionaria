@@ -1,3 +1,4 @@
+package Arquivos;
 import java.util.Scanner;
 
 public class cadastro {
